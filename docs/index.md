@@ -43,3 +43,7 @@ sudo apt install code
 ```bash
 sudo apt install dotnet-sdk-5.0
 ```
+
+### Install VSCode Extension
+
+Install [C# Extension](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csharp) powered by OmniSharp.
