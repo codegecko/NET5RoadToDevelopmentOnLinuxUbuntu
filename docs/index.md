@@ -1,5 +1,7 @@
 # Getting started
 
+Simple way to develop C# with .NET5 on Linux Ubuntu 20.04.
+
 ## Installing
 
 ### Installing required system packages
