@@ -6,3 +6,6 @@ repo_name: 'codegecko/NET5RoadToDevelopmentOnLinuxUbuntu'
 repo_url: 'https://github.com/codegecko/NET5RoadToDevelopmentOnLinuxUbuntu'
 theme:
   name: 'material'
+  palette:
+    - scheme: slate
+      primary: green
