@@ -46,4 +46,18 @@ sudo apt install dotnet-sdk-5.0
 
 ### Install VSCode Extension
 
-Install [C# Extension](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csharp) powered by OmniSharp.
+Install [C# Extension Pack](https://marketplace.visualstudio.com/items?itemName=doggy8088.netcore-extension-pack). It contains a large number of helpful extensions for C# development.
+
+## First CLI Project
+
+### Create projects folder
+
+```bash
+mkdir projects
+```
+
+### Create CLI project (console project)
+
+```bash
+dotnet new console -n CLIProject
+```

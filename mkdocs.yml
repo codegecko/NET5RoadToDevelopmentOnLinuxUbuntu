@@ -1,0 +1,8 @@
+site_name: '.NET5: Road to development on Linux Ubuntu'
+site_description: 'Simple way to develop C# with .NET5 on Linux Ubuntu 20.04.'
+site_author: 'Thierry Iseli'
+docs_dir: docs/
+repo_name: 'codegecko/NET5RoadToDevelopmentOnLinuxUbuntu'
+repo_url: 'https://github.com/codegecko/NET5RoadToDevelopmentOnLinuxUbuntu'
+theme:
+  name: 'material'
