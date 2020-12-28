@@ -10,8 +10,8 @@ Simple way to develop C# with .NET5 on Linux Ubuntu 20.04.
 sudo apt-get install apt-transport-https ca-certificates software-properties-common curl
 ```
 
-### Add Microsoft GPG apt key
-
+### Add Microsoft GPG apt key and repos
+ 
 ```bash
 curl -sSL https://packages.microsoft.com/keys/microsoft.asc | sudo apt-key add -
 ```
