@@ -21,7 +21,11 @@ sudo add-apt-repository "deb [arch=amd64] https://packages.microsoft.com/repos/v
 ```
 
 ```bash
-sudo add-apt-repository https://packages.microsoft.com/config/ubuntu/20.04/packages-microsoft-prod.deb
+wget https://packages.microsoft.com/config/ubuntu/20.04/packages-microsoft-prod.deb 
+```
+
+```bash
+sudo dpkg -i packages-microsoft-prod.deb 
 ```
 
 ```bash
