@@ -15,7 +15,7 @@ curl -sSL https://packages.microsoft.com/keys/microsoft.asc | sudo apt-key add -
 ```
 
 ```bash
-sudo apt-add-repository https://packages.microsoft.com/ubuntu/20.04/prod
+sudo add-apt-repository "deb [arch=amd64] https://packages.microsoft.com/repos/vscode stable main"
 ```
 
 ### Install VSCode
