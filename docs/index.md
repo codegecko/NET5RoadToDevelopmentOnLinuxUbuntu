@@ -24,11 +24,11 @@ sudo add-apt-repository "deb [arch=amd64] https://packages.microsoft.com/repos/v
 sudo add-apt-repository https://packages.microsoft.com/config/ubuntu/20.04/packages-microsoft-prod.deb
 ```
 
-### Install VSCode
-
 ```bash
 sudo apt-get update
 ```
+
+### Install VSCode
 
 ```bash
 sudo apt install code
