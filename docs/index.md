@@ -44,7 +44,7 @@ sudo apt install dotnet-sdk-5.0
 
 ### Install VSCode Extension
 
-Install [C# Extension Pack](https://marketplace.visualstudio.com/items?itemName=doggy8088.netcore-extension-pack). It contains a large number of helpful extensions for C# development.
+Install [.NET Extension Pack](https://marketplace.visualstudio.com/items?itemName=doggy8088.netcore-extension-pack). It contains a large number of helpful extensions for C# development.
 
 ## First CLI Project
 
