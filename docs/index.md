@@ -5,7 +5,7 @@
 ### Installing required system packages
 
 ```bash
-sudo apt-get install apt-transport-https ca-certificates software-properties-common
+sudo apt-get install apt-transport-https ca-certificates software-properties-common curl
 ```
 
 ### Add Microsoft GPG apt key
