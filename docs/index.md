@@ -1,5 +1,7 @@
 # .NET5: Road to development on Linux Ubuntu
 
+*Ubuntu 20.04*
+
 ## Installing
 
 ### Installing required system packages
@@ -19,7 +21,7 @@ sudo add-apt-repository "deb [arch=amd64] https://packages.microsoft.com/repos/v
 ```
 
 ```bash
-sudo add-apt-repository https://packages.microsoft.com/config/ubuntu/ubuntu/20.04/packages-microsoft-prod.deb
+sudo add-apt-repository https://packages.microsoft.com/config/ubuntu/20.04/packages-microsoft-prod.deb
 ```
 
 ### Install VSCode
