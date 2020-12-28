@@ -1,6 +1,4 @@
-# .NET5: Road to development on Linux Ubuntu
-
-*Ubuntu 20.04*
+# Getting started
 
 ## Installing
 
