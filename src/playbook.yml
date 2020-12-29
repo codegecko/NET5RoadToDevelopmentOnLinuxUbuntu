@@ -1,4 +1,4 @@
 - hosts: local
   roles: 
     - role: Net5
-    - role: VSCode
+    - role: VsCodeNetExtensions

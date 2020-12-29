@@ -4,4 +4,4 @@
 
 - src: https://github.com/codegecko/Ansible.Roles.VsCodeNetExtensions
   scm: git
-  name: VSCode
+  name: VsCodeNetExtensions
