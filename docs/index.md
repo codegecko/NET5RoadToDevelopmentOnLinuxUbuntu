@@ -51,7 +51,7 @@ Install [.NET Extension Pack](https://marketplace.visualstudio.com/items?itemNam
 ## Smarter way for installing with ansible
 
 ```bash
-sudo apt install ansible
+sudo apt install ansible git
 ```
 
 Ansible is an open-source automation tool for orchestration and general configuration and administration of computers.
