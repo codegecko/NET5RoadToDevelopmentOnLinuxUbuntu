@@ -48,6 +48,32 @@ sudo apt install dotnet-sdk-5.0
 
 Install [.NET Extension Pack](https://marketplace.visualstudio.com/items?itemName=doggy8088.netcore-extension-pack). It contains a large number of helpful extensions for C# development.
 
+## Smarter way for installing with ansible
+
+```bash
+sudo apt install ansible
+```
+
+Ansible is an open-source automation tool for orchestration and general configuration and administration of computers.
+
+For this we need the Ansible Requirements with Ansible-Galaxy.
+
+```bash
+git clone https://github.com/codegecko/NET5RoadToDevelopmentOnLinuxUbuntu
+```
+
+```bash
+cd src
+```
+
+```bash
+ansible-galaxy install -r requirements.yml
+```
+
+```bash
+ansible-playbook playbook.yml
+```
+
 ## First CLI Project
 
 ### Create projects folder
