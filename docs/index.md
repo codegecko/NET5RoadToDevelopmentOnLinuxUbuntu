@@ -63,7 +63,7 @@ git clone https://github.com/codegecko/NET5RoadToDevelopmentOnLinuxUbuntu
 ```
 
 ```bash
-cd src
+cd NET5RoadToDevelopmentOnLinuxUbuntu/src
 ```
 
 ```bash
