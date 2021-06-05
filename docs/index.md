@@ -59,7 +59,7 @@ Ansible is an open-source automation tool for orchestration and general configur
 For this we need the Ansible Requirements with Ansible-Galaxy.
 
 ```bash
-git clone https://github.com/codegecko/NET5RoadToDevelopmentOnLinuxUbuntu
+git clone https://github.com/tyupch/NET5RoadToDevelopmentOnLinuxUbuntu
 ```
 
 ```bash
