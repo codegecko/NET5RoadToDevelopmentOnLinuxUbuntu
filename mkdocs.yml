@@ -3,7 +3,7 @@ site_description: 'Simple way to develop C# with .NET5 on Linux Ubuntu 20.04.'
 site_author: 'Thierry Iseli'
 docs_dir: docs/
 repo_name: 'codegecko/NET5RoadToDevelopmentOnLinuxUbuntu'
-repo_url: 'https://github.com/codegecko/NET5RoadToDevelopmentOnLinuxUbuntu'
+repo_url: 'https://github.com/tyupch/NET5RoadToDevelopmentOnLinuxUbuntu'
 theme:
   name: 'material'
   palette:
